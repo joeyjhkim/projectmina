@@ -1,0 +1,51 @@
+To keep it simple
+
+- Limit movement to only x axis
+    - left, right, pitch
+- 1 motor for left and right
+- 1 motor for pitch
+- custom gear design allows for smooth rotations and actions
+
+
+How will I achieve the movement?
+- drive train?
+    - drive train will make it easier for the addition of y axis movement
+    - will severly limit pitch angle
+- rail system?
+    - will have no pitch 
+    - same design can be implemented to achieve y and z axis movement
+
+Movement achieved by
+- Drive train
+    - there will be 4 wheels. Motors will be required to control the rotation of the wheels and also the 
+        forward and backward movement of the wheel as well
+            - omnidirectional wheels.. how do they work?
+    - pitch
+        - pitch will have to be achieved by rotating the robot arm around a hinge that allows 
+        180 degrees of movement around the x axis
+            - this will probably be at the base of the robot
+
+
+Things to design
+- Custom left, right movement system
+- custom angular rotation system
+
+
+
+Things to buy
+- Motor
+    - how to I control the motor?
+        - Arduino. will I use arduino IDE to code this?
+- Remote controller
+    - how do I get the remote controller to send signals such that it can activate the motor?
+
+Code backbone for this
+- Power on
+    - 
+- left, right, pitch
+    - 
+
+
+Key questions
+- Can the same movement systems for x axis movement be implemented for y axis movement?
+    - What are some developments that can be made?

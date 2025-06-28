@@ -1,0 +1,31 @@
+Robotic Arm Component Research
+
+
+Degrees of freedom
+- 6 degrees of freedom
+    - x axis: left, right, pitch
+    - y axis: front, back, roll
+    - z axis: up, down, yaw
+- 6 motors for each degree of freedom
+    - 1 for left and right
+    - 1 for pitch
+    - 1 for front and back
+    - 1 for roll
+    - 1 for up and down
+    - 1 for yaw
+
+
+
+EOAT Ideas
+- For tapping mechanism
+    - just a small end with a textture that can be read by screens or pressure sensors
+- For gripping mechanism
+    - custom gripping mechanism
+        - will need more actuators for this
+- 3 claw EOAT that can rotate
+    - Can all 3 claws be moved in the same manner with 1 actuator?
+        - CW rotation making claw close
+        - CCW roation make claw open
+
+
+

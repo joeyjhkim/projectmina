@@ -1,0 +1,7 @@
+
+
+
+- For up and down
+    -
+- For yaw
+    - custom base with gears can be rotated with the motor
